@@ -1,2 +1,3 @@
-Execute mountlnxboot
-Execute lnxboot:bootlinux
+Execute c:mountlnxboot
+lnxboot:
+Execute bootlinux
