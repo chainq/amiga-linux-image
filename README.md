@@ -13,7 +13,7 @@ point.
 
 This is all very sketchy, and probably mostly only useful as
 some sort of reference, to do your own. Probably also useful
-for NetBSD with minor tweaks.=
+for NetBSD/amiga with minor tweaks.
 
 ## Why?
 
