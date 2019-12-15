@@ -25,7 +25,7 @@ xdftool $ABOOT_IMAGE_HDF makedir Libs
 
 # Extract minimal needed stuff from WB 3.1 Disk
 TMP_DIR=$(mktemp tmp.XXXXXXXXXX -d)
-WB31FILES=( SetPatch Dir List Assign Copy Delete Rename Execute Protect Mount Type )
+WB31FILES=( SetPatch Dir List Assign Copy Delete Rename Execute Protect Mount Type Ed )
 for WBFILE in ${WB31FILES[@]}; do
     xdftool $WB31DISK read C/$WBFILE $TMP_DIR
     xdftool $ABOOT_IMAGE_HDF write $TMP_DIR/$WBFILE C/
