@@ -1,0 +1,3 @@
+; Yes, it doesn't get simpler...
+C:SetPatch QUIET
+C:Assign T: RAM:

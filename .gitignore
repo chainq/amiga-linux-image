@@ -1,0 +1,11 @@
+files/WB-3_1.ADF
+files/040_060Libs.zip
+files/giggledisk.lha
+files/amiboot-5.6*
+files/fat95.lha
+
+aboot?affs*
+rw.ext4*
+rootfs.squashfs*
+*.img
+*.xz
