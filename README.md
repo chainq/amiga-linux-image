@@ -2,13 +2,13 @@
 
 ## What?
 
-This repository contains a few hacky scriptsto create an
+This repository contains a few hacky scripts to create an
 extremely simple AmigaOS boot partition, which allows booting
 a Linux/m68k installation from AmigaOS prompt.
 
 It is tuned to be used with my homemade, Buildroot-based Linux
 images, which might be published at a later point. For other
-Amiga Linux-y thinks (Debian/m68k, etc.), you can probably use
+Amiga Linux-y things (Debian/m68k, etc.), you can probably use
 it as a reference point.
 
 This is all very sketchy, and probably mostly only useful as
